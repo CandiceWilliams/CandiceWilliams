@@ -1,6 +1,6 @@
-Hello! :smile:	 My name is Candice Williams and I am currently in my third year of pursuing my Bachelors in Computer Science at Western University (a.k.a the Univeristy of Western Ontario) in London, Ontario. 
+Hello! :smile:	 My name is Candice Williams and I am currently in my last year of pursuing my Bachelors in Computer Science at Western University (a.k.a the Univeristy of Western Ontario) in London, Ontario. 
 
-I am interested in Web Development (front and backend) :computer:, Artficial Intelligence and Machine Learning :mechanical_arm:	, and Virtual Reality :video_game:	. I am very enthusiastic about technology and software development and hope to be able to contribute to many projects in the future.
+I am interested in Web Development (front and backend) :computer:, Artficial Intelligence and Machine Learning :mechanical_arm:	, and Computer Networking :gear:	. I am very enthusiastic about technology and software development and hope to be able to contribute to many projects in the future.
 
 :woman_technologist: In my spare time, I enjoy reading novels and comics, cooking for my friends and family, and applying my university curriculum into practice by creating new and exciting projects that test my understanding. 
 
